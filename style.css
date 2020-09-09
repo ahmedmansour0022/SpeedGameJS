@@ -1,0 +1,17 @@
+.square{
+    height: 200px;
+    width: 200px;
+    border: 1px solid blue;
+}
+.grid{
+   display: flex;
+   flex-flow: row wrap;
+   justify-content: center;
+   align-content: center;
+   width: 630px;
+   height: 630px;
+}
+.play{
+    background-image: url(Mansour.jpg);
+    background-size: cover;
+}
